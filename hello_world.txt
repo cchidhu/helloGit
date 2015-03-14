@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello World!! Master version
+=======
+Hello World!! - Version 2
+>>>>>>> v2
 Second line
 New line Version 2
